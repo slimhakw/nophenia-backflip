@@ -1,3 +1,6 @@
+# Usage
+Press ``B`` to perform a backflip
+
 # Installation
 ## Mod manager (recommended)
 Download the [nophenia mod manager and install the mod from there](https://github.com/wojtas3422/nophenia-mod-manager)

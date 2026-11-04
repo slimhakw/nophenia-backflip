@@ -1,0 +1,25 @@
+{
+    "name": "Backflip",
+    "namespace": "slimhakw",
+    "version_number": "0.0.1",
+    "description": "make nia do backflip",
+    "website_url": "",
+    "dependencies": [
+        
+    ],
+    "extra": {
+        "godot": {
+            "authors": [],
+            "tags": [],
+            "description_rich": "",
+            "optional_dependencies": [],
+            "load_before": [],
+            "incompatibilities": [
+               
+            ],
+            "compatible_mod_loader_version": ["7.0.1"],
+            "compatible_game_version": ["1.0.2"],
+            "config_schema": {}
+        }
+    }
+}

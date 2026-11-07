@@ -1,25 +1,28 @@
 {
-    "name": "Backflip",
-    "namespace": "slimhakw",
-    "version_number": "0.0.1",
+    "dependencies": [],
     "description": "make nia do backflip",
-    "website_url": "",
-    "dependencies": [
-        
-    ],
     "extra": {
         "godot": {
             "authors": [],
-            "tags": [],
-            "description_rich": "",
-            "optional_dependencies": [],
-            "load_before": [],
-            "incompatibilities": [
-               
+            "compatible_game_version": [
+				"1.0.2"
             ],
-            "compatible_mod_loader_version": ["7.0.1"],
-            "compatible_game_version": ["1.0.2"],
-            "config_schema": {}
+            "compatible_mod_loader_version": [
+				"7.0.1"
+            ],
+            "config_schema": {},
+            "description_rich": "",
+            "image": null,
+            "incompatibilities": [],
+            "load_before": [],
+            "optional_dependencies": [
+				"com-multiplayer"
+            ],
+            "tags": []
         }
-    }
+    },
+    "name": "Backflip",
+    "namespace": "slimhakw",
+    "version_number": "0.1.1",
+    "website_url": ""
 }
